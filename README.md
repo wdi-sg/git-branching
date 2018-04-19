@@ -40,3 +40,9 @@ Now that you are in your master branch, see the current state of the file.
 ```
 git merge new-line
 ```
+
+### You might need to set your default terminal editor:
+```
+export VISUAL=sublime
+export EDITOR="$VISUAL"
+```
