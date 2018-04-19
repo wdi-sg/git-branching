@@ -51,3 +51,27 @@ git merge new-line
 export VISUAL=sublime
 export EDITOR="$VISUAL"
 ```
+
+### Add it to github
+Create a repo named `catworld`.
+
+#### Add the github remote to your repo
+Follow the part of the instructions for adding a remote.
+It will look something like: `git remote add origin https://github.com/user/repo.git`
+
+#### Push your local changes up
+Follow the part of the instructions to force push up your current repo.
+```
+git push -u origin master
+```
+
+#### Make changes to your file in github
+Pull them down from github
+```
+git pull origin master
+```
+
+#### Push your branch to github
+```
+git push origin new-line
+```
