@@ -31,6 +31,10 @@ Make the changes:
 ```
 sublime text-sample.txt
 ```
+```
+git add .
+git commit
+```
 
 Merge your changes back into master
 ```
