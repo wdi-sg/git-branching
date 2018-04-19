@@ -65,7 +65,7 @@ Follow the part of the instructions to force push up your current repo.
 git push -u origin master
 ```
 
-#### Make changes to your file in github
+#### Make changes to your file with the github.com text editor
 Pull them down from github
 ```
 git pull origin master
