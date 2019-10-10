@@ -2,7 +2,7 @@
 
 #### Add a collaborator
 
-Add a person as a collaborator to your githuib project.
+Add a person as a collaborator to your github project.
 
 - open up your repo page on github
 - click to the `settings` tab
